@@ -8,9 +8,8 @@ export default {
   },
   plugins: [daisyui],
   daisyui: {
-    themes: ["forest"],
+    themes: ["dim"],
   },
 };
 
-
-// , "light", "dark"
+// , "light", "dark"sunset
